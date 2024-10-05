@@ -1,0 +1,14 @@
+{
+  "name": "containerization-demo",
+  "version": "1.0.0",
+  "description": "The goal of this activity is to have your node application containerised onto a self-built node baseimage and have it deployed on a remote host (i.e. an EC2).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
